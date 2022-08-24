@@ -4,7 +4,7 @@ void setup(){
 }
 void draw(){
 noStroke();
-  ellipse(300,125,50,150); //left
+ellipse(300,125,50,150); //left
 ellipse(200,125,50,150); //right
 ellipse(250,200,150,150);
 }
