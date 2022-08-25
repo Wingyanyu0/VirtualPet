@@ -1,7 +1,8 @@
 
 void setup(){
   size(500,500);
-}
+  background (135,206,250);
+  }
 void draw(){
 noStroke();
 fill(0,154,23);
